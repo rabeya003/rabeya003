@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi 👋, I'm Rabeya Boshri
 
-I'm Rabeya from Bangladesh,and I do content on Development.I really enjoy learning language and frameworks .
+I'm from Bangladesh,and I do content on Development.I really enjoy learning language and frameworks .
 
 ## Skills and Experience
 ⚛️React

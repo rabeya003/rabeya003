@@ -2,9 +2,11 @@
 
 I'm from Bangladesh,and I do content on Development.I really enjoy learning language and frameworks .
 
-## Skills and Experience
-
-💻 HIML, CSS, Js, ⚛️ReactJs,NodeJs
+*Skills:* <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,firebase,figma,nodejs,react,tailwind,canva" />
+  </a>
+</p>
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rabeya003&show_icons=true&theme=radical" />

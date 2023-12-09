@@ -1,8 +1,10 @@
 # Hi 👋, I'm Rabeya Boshri
 
-I'm from Bangladesh,and I do content on Development.I really enjoy learning language and frameworks .
+I'm from Bangladesh,and I do content on Development.I really enjoy learning language and frameworks.
 
-**Skills**:* <p align="center">
+https://i.imgur.com/0XuFuXx.png
+
+**Skills**: <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,firebase,figma,nodejs,react,tailwind,canva" />
   </a>

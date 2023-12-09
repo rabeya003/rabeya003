@@ -4,7 +4,7 @@ I'm from Bangladesh,and I do content on Development.I really enjoy learning lang
 
 ## Skills and Experience
 
-💻 HIML, CSS, Js, ⚛️React
+💻 HIML, CSS, Js, ⚛️ReactJs,NodeJs
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rabeya003&show_icons=true&theme=radical" />

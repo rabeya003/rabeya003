@@ -2,7 +2,7 @@
 
 I'm from Bangladesh,and I do content on Development.I really enjoy learning language and frameworks.
 
-https://i.imgur.com/0XuFuXx.png
+[https://i.imgur.com/0XuFuXx.png](https://i.imgur.com/0XuFuXx.png)
 
 **Skills**: <p align="center">
   <a href="https://skillicons.dev">
